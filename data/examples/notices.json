@@ -1,0 +1,11 @@
+{
+  "updatedAt": null,
+  "items": [
+    {
+      "id": "n1",
+      "pinned": true,
+      "title": "공지 제목 [확인 필요]",
+      "body": "공지 내용 [확인 필요]"
+    }
+  ]
+}

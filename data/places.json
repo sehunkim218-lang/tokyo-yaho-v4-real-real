@@ -1,0 +1,998 @@
+[
+  {
+    "id": "narita-airport",
+    "name_ko": "나리타국제공항",
+    "name_ja": "成田国際空港",
+    "yomi": "なりたこくさいくうこう",
+    "category": "공항",
+    "days": [
+      1,
+      4
+    ],
+    "intro": "도착(10/20)과 출국(10/23)을 하는 공항. 터미널이 T1·T2·T3 세 곳이에요.",
+    "description": "어느 터미널을 쓰는지는 항공사마다 달라요. 우리 항공편과 터미널은 [확인 필요]예요.",
+    "points": [
+      "입국: 입국심사(Visit Japan Web QR) → 짐 찾기 → 세관(QR + 여권) → 집합",
+      "출국: 체크인 → 보안검색 → 세관(필요할 때만) → 출국심사 → 탑승구",
+      "출발 2시간 전까지 공항 도착"
+    ],
+    "sights": [
+      {
+        "name": "인천행 항공사 터미널 예시",
+        "where": "T1·T2·T3",
+        "desc": "대한항공 T1 북윙 4F · 제주항공 T3 2F · 트리니티항공(9/10에 티웨이에서 이름이 바뀜) T2 3F"
+      },
+      {
+        "name": "터미널 사이 이동",
+        "where": "무료 셔틀버스",
+        "desc": "T1→T2 약 10분, T2→T3 약 6분. T2와 T3는 걸어서도 갈 수 있어요."
+      }
+    ],
+    "food": [
+      {
+        "name": "Tokyo Food Bar",
+        "where": "T1 남윙 3F · 보안검색 뒤",
+        "desc": "일식·라멘 푸드코트, 7:45~21:00",
+        "dish": "ramen"
+      },
+      {
+        "name": "一風堂 · 맥도날드 · すし京辰",
+        "where": "T1 보안검색 뒤",
+        "desc": "라멘, 햄버거, 초밥",
+        "dish": "sushi"
+      },
+      {
+        "name": "CAFE & DINING N's COURT",
+        "where": "T2 4F · 보안검색 전",
+        "desc": "일식·양식·중식·한식 카페테리아, 6:45~21:30"
+      },
+      {
+        "name": "JAPAN FOOD HALL",
+        "where": "T2 2F · 보안검색 뒤",
+        "desc": "매장 10곳 (うなぎ四代目菊川, 京都勝牛, すし京辰 등)",
+        "dish": "unaju"
+      },
+      {
+        "name": "T3",
+        "where": "보안검색 뒤",
+        "desc": "caffe LAT.25° 정도라 먹을 곳이 적어요"
+      }
+    ],
+    "rules": [
+      "Visit Japan Web QR은 입국용·세관용을 한 사람씩 따로 만들어요.",
+      "액체: 용기 하나 100ml 이하, 1L 투명 지퍼백 1인 1개. 넘는 건 부치는 짐으로.",
+      "보조배터리: 기내 2개까지·각 160Wh 이하, 부치는 짐에는 넣을 수 없어요. 기내에서 충전하거나 다른 기기를 충전하면 안 돼요. 항공사 규정이 더 엄격하면 그걸 따라요.",
+      "면세품: 과자·화장품 같은 소모품은 출국할 때까지 뜯지 않아요. 시내 면세점에서 산 액체는 부치는 짐에 넣어요."
+    ],
+    "changes": [
+      "9/10부터 티웨이항공 이름이 '트리니티항공(Trinity Airways)'으로 바뀌었어요 (터미널은 T2 그대로).",
+      "보조배터리 새 규정은 2026년 4월 24일부터예요."
+    ],
+    "stay": null,
+    "access": "신승사에서 차로 약 20분",
+    "hours": null,
+    "fee": null,
+    "cautions": "항공편·터미널·집합 장소 [확인 필요]",
+    "lat": 35.77,
+    "lng": 140.387,
+    "sources": [
+      [
+        "나리타공항 항공사 검색",
+        "https://www.narita-airport.jp/ja/flight/airline-search/kal/"
+      ],
+      [
+        "트리니티항공 이름 변경",
+        "https://www.narita-airport.jp/ja/topics/20260910_TW/"
+      ],
+      [
+        "출국 순서",
+        "https://www.narita-airport.jp/ja/airportguide/inter-dep/"
+      ],
+      [
+        "액체 규정",
+        "https://www.narita-airport.jp/ja/airportguide/security/liquid/"
+      ],
+      [
+        "보조배터리 규정 (국토교통성)",
+        "https://www.mlit.go.jp/report/press/kouku10_hh_000310.html"
+      ],
+      [
+        "입국기록 (출입국재류관리청)",
+        "https://www.moj.go.jp/isa/immigration/procedures/translation.html"
+      ],
+      [
+        "세관 전자신고",
+        "https://www.customs.go.jp/kaigairyoko/egate.htm"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/narita-airport.jpg",
+    "icon": "plane",
+    "short": "나리타공항",
+    "photoCredit": {
+      "author": "名無し野電車区",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Narita_International_Airport_Terminal_1.JPG",
+      "caption": "제1터미널 (2014)"
+    }
+  },
+  {
+    "id": "odaiba-seaside",
+    "name_ko": "오다이바 해변공원",
+    "name_ja": "お台場海浜公園",
+    "yomi": "おだいばかいひんこうえん",
+    "category": "공원·바다",
+    "days": [
+      1,
+      2
+    ],
+    "intro": "레인보우 브리지와 도심 빌딩이 보이는 인공 모래 해변 공원.",
+    "description": "모래사장을 걸으며 다리, 지나가는 배, 해 질 녘 야경을 볼 수 있어요. 2026년 3월에 생긴 무료 분수쇼가 인기예요.",
+    "points": [
+      "자유의 여신상 복제상",
+      "도쿄 아쿠아 심포니 (무료 분수쇼)",
+      "第三台場 (에도 시대 포대 자리)"
+    ],
+    "sights": [
+      {
+        "name": "자유의 여신상 복제상",
+        "ja": "自由の女神像",
+        "where": "레인보우 브리지 앞",
+        "desc": "청동, 높이 약 11m. 파리 여신상의 틀로 만들었어요."
+      },
+      {
+        "name": "도쿄 아쿠아 심포니",
+        "ja": "東京アクアシンフォニー",
+        "where": "해변 앞 바다",
+        "desc": "최대 높이 150m·폭 250m 분수쇼. 무료·예약 없음. 15:00, 15:45, 16:30, 17:15, 18:00, 18:45, 19:30, 20:15, 21:00, 21:30 (날씨·점검으로 바뀔 수 있음)"
+      },
+      {
+        "name": "다이산다이바",
+        "ja": "第三台場",
+        "where": "공원 바로 옆",
+        "desc": "에도 시대 포대가 있던 자리"
+      },
+      {
+        "name": "모래사장",
+        "where": "공원 가운데",
+        "desc": "레인보우 브리지와 도심 빌딩 경치"
+      }
+    ],
+    "food": [
+      {
+        "name": "東京ラーメン国技館 舞",
+        "where": "아쿠아시티 오다이바 5F",
+        "desc": "유명 라멘집 6곳이 모인 곳",
+        "dish": "ramen"
+      },
+      {
+        "name": "다이버시티 2F 푸드코트",
+        "where": "걸어서 약 10분",
+        "desc": "다이버시티 도쿄 플라자 화면 참고",
+        "dish": "takoyaki",
+        "guide": false
+      }
+    ],
+    "rules": [
+      "수영할 수 없어요. 모래사장 걷기·물가 놀이까지만 돼요.",
+      "옛 방파제는 출입금지예요.",
+      "분수쇼 시간에는 아주 붐벼요. 집합 장소를 미리 정해요."
+    ],
+    "changes": [
+      "도쿄 아쿠아 심포니는 2026년 3월 28일에 시작했어요."
+    ],
+    "stay": null,
+    "access": "유리카모메 お台場海浜公園駅·台場駅에서 걸어서 3~5분",
+    "hours": null,
+    "fee": "무료로 보이지만 공식 자료에 적혀 있지 않아요 [확인 필요]",
+    "cautions": "수영 금지, 옛 방파제 출입금지",
+    "lat": 35.6298,
+    "lng": 139.7745,
+    "sources": [
+      [
+        "GO TOKYO",
+        "https://www.gotokyo.org/jp/spot/39/index.html"
+      ],
+      [
+        "도쿄도 항만국 안내 PDF",
+        "https://www.kouwan.metro.tokyo.lg.jp/kanko/3_kaijokouen_odaiba_202404.pdf"
+      ],
+      [
+        "도쿄 아쿠아 심포니 공식",
+        "https://tokyoaquasymphony.jp/"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/odaiba-seaside.jpg",
+    "related": [
+      "rainbow-bridge",
+      "divercity"
+    ],
+    "icon": "wave",
+    "short": "오다이바 해변공원",
+    "photoCredit": {
+      "author": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Odaiba_beach_at_dusk.jpg",
+      "caption": "해 질 녘 해변 (2022)"
+    }
+  },
+  {
+    "id": "rainbow-bridge",
+    "name_ko": "레인보우 브리지",
+    "name_ja": "レインボーブリッジ",
+    "yomi": null,
+    "category": "공원·바다",
+    "days": [
+      1,
+      2
+    ],
+    "intro": "시바우라와 오다이바를 잇는 다리. 걸어서 건너는 산책로가 있어요.",
+    "description": "산책로는 북쪽·남쪽 두 갈래이고, 각각 그쪽 방향 도쿄 경치가 보여요. 유리카모메를 타고 지나가도 다리를 가까이 볼 수 있어요.",
+    "points": [
+      "산책로 약 1.7km, 건너는 데 20~30분",
+      "밤에는 조명이 켜져요"
+    ],
+    "sights": [
+      {
+        "name": "북쪽 루트·남쪽 루트",
+        "ja": "ノースルート・サウスルート",
+        "where": "다리 양옆 산책로",
+        "desc": "방향마다 다른 도쿄 경치"
+      },
+      {
+        "name": "오다이바 쪽 입구",
+        "where": "お台場海浜公園駅에서 걸어서 약 10분"
+      },
+      {
+        "name": "시바우라 쪽 입구",
+        "where": "芝浦ふ頭駅에서 걸어서 약 5분"
+      }
+    ],
+    "food": [
+      {
+        "name": "다리 위에는 식당이 없어요",
+        "desc": "오다이바 해변공원·다이버시티 화면 참고",
+        "guide": false
+      }
+    ],
+    "rules": [
+      "건너기 시작하면 20~30분 동안 중간에 나갈 곳이 없어요.",
+      "바람이 세면 닫힐 수 있어요.",
+      "삼각대·흡연·음주 금지, 자전거는 끌고만 가요."
+    ],
+    "changes": [
+      "쉬는 날은 매달 셋째 월요일이에요. 10월은 19일이라 20·21일에는 열려요."
+    ],
+    "stay": "건너는 데 20~30분",
+    "access": "유리카모메 お台場海浜公園駅 (오다이바 쪽)",
+    "hours": "9:00~21:00 (4~10월), 입장은 30분 전까지",
+    "fee": "무료",
+    "cautions": "강풍 때 닫힐 수 있음",
+    "lat": 35.6366,
+    "lng": 139.7634,
+    "sources": [
+      [
+        "도쿄도 항만국 산책로 안내",
+        "https://www.kouwan.metro.tokyo.lg.jp/topics/RB.pdf"
+      ],
+      [
+        "GLTJP",
+        "https://www.gltjp.com/ja/directory/item/10573/"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/rainbow-bridge.jpg",
+    "related": [
+      "odaiba-seaside"
+    ],
+    "icon": "bridge",
+    "short": "레인보우 브리지",
+    "photoCredit": {
+      "author": "Suicasmo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rainbow_Bridge,_Tokyo_20190320-1.jpg",
+      "caption": "오다이바 쪽에서 본 다리 (2019)"
+    }
+  },
+  {
+    "id": "divercity",
+    "name_ko": "다이버시티 도쿄 플라자",
+    "name_ja": "ダイバーシティ東京 プラザ",
+    "yomi": null,
+    "category": "쇼핑",
+    "days": [
+      1,
+      2
+    ],
+    "intro": "패션·기념품·캐릭터 가게가 모인 7층 쇼핑몰.",
+    "description": "주소 東京都江東区青海1-1-10. 4·5층에 스포츠 용품점이 모여 있어요.",
+    "points": [
+      "2F 푸드코트 東京グルメスタジアム",
+      "4·5F 스포츠 용품점",
+      "7F THE GUNDAM BASE TOKYO"
+    ],
+    "sights": [
+      {
+        "name": "THE GUNDAM BASE TOKYO",
+        "where": "7F",
+        "desc": "건프라 시설"
+      },
+      {
+        "name": "ROUND1",
+        "where": "꼭대기 층",
+        "desc": "볼링·노래방·게임"
+      },
+      {
+        "name": "TYFFONIUM",
+        "where": "5F",
+        "desc": "VR 어트랙션"
+      }
+    ],
+    "food": [
+      {
+        "name": "東京グルメスタジアム",
+        "where": "2F 푸드코트 (14개 가게)",
+        "desc": "築地銀だこ(다코야키), はなまるうどん, 金子半之助(텐동), かつ江衛門(가츠동), TORIKAI EXPRESS(오야코동), 田中そば店(라멘)",
+        "dish": "takoyaki"
+      }
+    ],
+    "shops": [
+      {
+        "name": "슈퍼스포츠 제비오",
+        "ja": "スーパースポーツゼビオ",
+        "where": "4F",
+        "desc": "축구·농구·테니스·배드민턴·러닝 장비, 운동화, 운동복을 한곳에서 보는 대형 스포츠 전문점",
+        "star": true,
+        "url": "https://mitsui-shopping-park.com/divercity-tokyo/shopguide/1188761.html"
+      },
+      {
+        "name": "미즈노숍",
+        "ja": "ミズノショップ",
+        "where": "4F",
+        "desc": "미즈노 러닝화, 스포츠 의류",
+        "url": "https://mitsui-shopping-park.com/divercity-tokyo/shopguide/3124641.html"
+      },
+      {
+        "name": "나이키",
+        "ja": "Nike",
+        "where": "4F",
+        "desc": "나이키·조던 운동화와 스포츠 의류",
+        "url": "https://mitsui-shopping-park.com/en/divercity-tokyo/shopguide/2971755.html"
+      },
+      {
+        "name": "언더아머 브랜드하우스",
+        "ja": "Under Armour Brand House",
+        "where": "4F",
+        "desc": "트레이닝복, 운동화, 스포츠 액세서리",
+        "url": "https://mitsui-shopping-park.com/divercity-tokyo/shopguide/2995284.html"
+      },
+      {
+        "name": "OSHMAN'S RUN&FITNESS",
+        "where": "5F",
+        "desc": "On·HOKA 등 러닝화와 피트니스 의류",
+        "url": "https://mitsui-shopping-park.com/en/divercity-tokyo/shopguide/3585478.html"
+      },
+      {
+        "name": "instant skateboard",
+        "where": "5F",
+        "desc": "스케이트보드 전문 프로숍",
+        "url": "https://mitsui-shopping-park.com/divercity-tokyo/shopguide/701072.html"
+      }
+    ],
+    "rules": [
+      "물품보관함은 2F·3F·6F에 있어요.",
+      "면세는 같은 가게에서 하루 5,000엔 이상 + 여권."
+    ],
+    "changes": [
+      "유니콘 건담 실물 크기 입상은 8/31에 전시가 끝났어요. 2F 광장 주변에 해체 펜스가 있을 수 있어요.",
+      "2F 도라에몽 미래 백화점은 9/30부터 리뉴얼로 쉬어요.",
+      "5F 크레용 신짱 시네마 퍼레이드 투어는 9/27에 끝났어요."
+    ],
+    "stay": null,
+    "access": "りんかい線 東京テレポート駅에서 걸어서 3분, 유리카모메 台場駅에서 걸어서 5분",
+    "hours": "평일 상점 11:00~20:00",
+    "fee": "무료 입장",
+    "cautions": "유니콘 건담 입상은 볼 수 없어요",
+    "lat": 35.6252,
+    "lng": 139.7757,
+    "sources": [
+      [
+        "다이버시티 공식",
+        "https://mitsui-shopping-park.com/divercity-tokyo/"
+      ],
+      [
+        "푸드코트 가게",
+        "https://mitsui-shopping-park.com/en/gourmet/divercity-tokyo/g0019000000023110/"
+      ],
+      [
+        "건담 입상 종료 보도",
+        "https://av.watch.impress.co.jp/docs/news/2136752.html"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/divercity.jpg",
+    "related": [
+      "odaiba-seaside"
+    ],
+    "icon": "bag",
+    "short": "다이버시티",
+    "photoCredit": {
+      "author": "ITA-ATU",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Diver-City_Tokyo_as_see_from_FCG_Building.jpg",
+      "caption": "후지TV 건물에서 내려다본 모습 (2017)"
+    }
+  },
+  {
+    "id": "akihabara",
+    "name_ko": "아키하바라",
+    "name_ja": "秋葉原",
+    "yomi": "あきはばら",
+    "category": "거리",
+    "days": [
+      1,
+      2
+    ],
+    "intro": "전자상가에서 시작해 애니메이션·게임·피규어의 중심이 된 동네.",
+    "description": "JR·히비야선·쓰쿠바 익스프레스 秋葉原駅. 전기상가 쪽은 '電気街口' 출구로 나가요.",
+    "points": [
+      "전기상가",
+      "라디오회관·가챠폰회관",
+      "神田明神",
+      "mAAch ecute"
+    ],
+    "sights": [
+      {
+        "name": "아키하바라 전기상가",
+        "ja": "秋葉原電気街",
+        "where": "電気街口에서 걸어서 약 5분",
+        "desc": "컴퓨터·애니메이션·게임·피규어 가게"
+      },
+      {
+        "name": "라디오회관",
+        "ja": "秋葉原ラジオ会館",
+        "where": "外神田1-15-16",
+        "desc": "층마다 피규어·게임·만화 가게"
+      },
+      {
+        "name": "가챠폰회관",
+        "ja": "秋葉原ガチャポン会館",
+        "where": "電気街口에서 걸어서 약 6분",
+        "desc": "캡슐토이 기계 약 500대"
+      },
+      {
+        "name": "간다묘진",
+        "ja": "神田明神",
+        "where": "電気街口에서 걸어서 약 7분",
+        "desc": "730년 무렵 세워졌다고 전해지는 신사. 애니메이션 그림 에마가 많아요."
+      },
+      {
+        "name": "mAAch ecute 간다만세이바시",
+        "ja": "マーチエキュート神田万世橋",
+        "where": "電気街口에서 걸어서 4분",
+        "desc": "옛 만세이바시역 붉은 벽돌 고가와 플랫폼. 11:00~22:00"
+      }
+    ],
+    "food": [
+      {
+        "name": "아트레 아키하바라1",
+        "where": "1F",
+        "desc": "丸亀製麺(우동), 餃子の王将(중화), 魚がし日本一(서서 먹는 초밥)",
+        "dish": "udon"
+      },
+      {
+        "name": "아트레 아키하바라2",
+        "where": "5F·6F",
+        "desc": "5F バーミヤン(중화), 6F サイゼリヤ(이탈리안)",
+        "dish": "gyoza"
+      },
+      {
+        "name": "AKIBA_ICHI",
+        "where": "아키하바라 UDX, 電気街口에서 2분",
+        "desc": "가게·식당 약 30곳"
+      }
+    ],
+    "shops": [
+      {
+        "name": "윈저 라켓숍 아키하바라",
+        "ja": "ウインザーラケットショップ 秋葉原",
+        "where": "台東区秋葉原2-3 日本農業新聞本社ビル 1F",
+        "desc": "테니스·소프트테니스·배드민턴 라켓과 신발·용품 전문점. 2026년 9월 재개장, 10:30~19:30",
+        "star": true,
+        "note": "공식 페이지를 다시 열어 보지 못했어요. 주소·영업시간 [확인 필요]",
+        "url": "https://www.windsorracket.co.jp/shop/pages/akihabara2026.aspx?ismodesmartphone=on"
+      },
+      {
+        "name": "웸블리 아키하바라점",
+        "ja": "ウエンブレー 秋葉原店",
+        "where": "千代田区神田佐久間町3-37 由良ビル4F",
+        "desc": "배드민턴 전문점. 화~토 11:00~20:00",
+        "note": "매월 셋째 수요일 휴무 → 10/21(수)은 쉬어요. 20일(화)에만 갈 수 있어요.",
+        "url": "https://www.bps-wembley.com/shop/"
+      },
+      {
+        "name": "골프플라자 액티브 AKIBA",
+        "ja": "ゴルフプラザ ACTIVE AKIBA",
+        "where": "요도바시 Akiba 9F",
+        "desc": "골프채·골프용품 전문점. 11:00~22:00",
+        "url": "https://www.yodobashi-akiba.com/sports2/sports_plaz.html"
+      }
+    ],
+    "rules": [
+      "치요다구 조례로 호객이 금지돼 있지만 콘셉트 카페 호객이 있어요. 말을 걸어와도 따라가지 않아요.",
+      "일본 전압은 100V예요. 전자제품은 '100–240V' 표시를 꼭 확인해요.",
+      "면세: 같은 가게·같은 날 5,000엔 이상 + 여권. 소모품은 밀봉된 채로 받고 일본에서 뜯지 않아요."
+    ],
+    "changes": [
+      "11/1부터 면세가 '나중에 환급' 방식으로 바뀌지만, 이번 여행(10월)은 지금 방식이에요."
+    ],
+    "stay": null,
+    "access": "도쿄역에서 JR 야마노테선 약 4분",
+    "hours": null,
+    "fee": null,
+    "cautions": "호객 따라가지 않기, 전압 확인",
+    "lat": 35.6983,
+    "lng": 139.7731,
+    "sources": [
+      [
+        "GO TOKYO",
+        "https://www.gotokyo.org/en/spot/55/index.html"
+      ],
+      [
+        "간다묘진",
+        "https://www.kandamyoujin.or.jp/access/"
+      ],
+      [
+        "mAAch ecute",
+        "https://www.ecute.jp/maach"
+      ],
+      [
+        "아트레 아키하바라",
+        "https://www.atre.co.jp/index.php/akihabara/caferestaurant/"
+      ],
+      [
+        "치요다구 호객 조례",
+        "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/kyakuhiki.html"
+      ],
+      [
+        "면세 제도 (관광청)",
+        "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00028.html"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/akihabara.jpg",
+    "icon": "bolt",
+    "short": "아키하바라",
+    "photoCredit": {
+      "author": "Phineyes",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Sotokanda,_Akihabara_Electric_Town_at_night_20231114.png",
+      "caption": "밤의 전기상가 (2023)"
+    }
+  },
+  {
+    "id": "wb-tokyo",
+    "name_ko": "워너 브라더스 스튜디오 투어 도쿄",
+    "name_ja": "ワーナー ブラザース スタジオツアー東京",
+    "yomi": null,
+    "category": "체험",
+    "days": [
+      2
+    ],
+    "intro": "해리 포터 영화에 실제로 쓰인 세트·소품·의상을 걸으며 보는 실내 스튜디오 투어.",
+    "description": "입장 시간을 정하는 예약제예요. 지정 시간 뒤 30분 안에 도착해야 하고, 건물에는 1시간 전부터 들어갈 수 있어요. 관람은 3~4시간, 한 방향으로만 걸어요.",
+    "points": [
+      "그레이트 홀",
+      "9와 3/4 승강장·호그와트 특급",
+      "마법부 (도쿄에만 있는 세트)",
+      "다이애건 앨리"
+    ],
+    "sights": [
+      {
+        "name": "그레이트 홀",
+        "ja": "大広間",
+        "where": "투어 시작 부분",
+        "desc": "기숙사 배정식이 열린 곳. 기숙사 점수판"
+      },
+      {
+        "name": "9와 3/4 승강장·호그와트 특급",
+        "ja": "9と3/4番線",
+        "desc": "기차에 타 볼 수 있어요"
+      },
+      {
+        "name": "금지된 숲",
+        "ja": "禁じられた森",
+        "desc": "디멘터 상대 패트로누스 체험, 아라고그 소굴"
+      },
+      {
+        "name": "마법부",
+        "ja": "魔法省",
+        "desc": "도쿄에만 있는 실물 크기 세트. 벽난로 플루 가루 연출 촬영"
+      },
+      {
+        "name": "다이애건 앨리",
+        "ja": "ダイアゴン横丁",
+        "desc": "그린고츠 은행, 마법 동물 가게"
+      },
+      {
+        "name": "호그와트 성 모형",
+        "ja": "ホグワーツ城の模型",
+        "where": "투어 끝부분",
+        "desc": "광섬유 조명 약 2,500개"
+      }
+    ],
+    "food": [
+      {
+        "name": "푸드홀",
+        "ja": "フードホール",
+        "where": "로비",
+        "desc": "샐러드·버거·파스타·피자·디저트",
+        "dish": "burger"
+      },
+      {
+        "name": "프로그 카페",
+        "ja": "フロッグカフェ",
+        "where": "로비",
+        "desc": "기숙사 테마 컵케이크·도넛"
+      },
+      {
+        "name": "백랏 카페",
+        "ja": "バックロットカフェ",
+        "where": "투어 중간",
+        "desc": "따뜻한 식사·샌드위치·간식·버터비어",
+        "dish": "sandwich"
+      },
+      {
+        "name": "버터비어 바",
+        "ja": "バタービールバー",
+        "desc": "버터비어를 큰 잔에 담아 팔아요"
+      }
+    ],
+    "rules": [
+      "보안검색이 있어요. 칼날류(모조품 포함)·삼각대·일각대·드론·풍선은 안 돼요.",
+      "바깥 음식은 안 되고, 음료는 뚜껑 있는 병에 든 것만 돼요. 급수기는 있지만 컵이 없어서 물병을 챙겨요.",
+      "안에서는 단체사진을 찍을 수 없어요. 나와서 입구 밖 공원에서 찍어요.",
+      "뛰지 않고, 전시물을 만지지 않아요. 재입장은 안 돼요.",
+      "셀카봉은 가장 짧게 줄이고 머리 위로 들지 않아요. 플래시·라이브 방송 금지."
+    ],
+    "changes": [
+      "9/29 저녁에 불이 났지만 다친 사람은 없고 투어는 평소대로 운영해요. 디지털 가이드는 당분간 중단.",
+      "나이트 버스는 수리로 11월 초까지 볼 수 없어요.",
+      "할로윈 이벤트 '闇の魔術のハロウィーン' (9/10~11/8)."
+    ],
+    "stay": "3~4시간",
+    "access": "豊島園駅에서 걸어서 2분. 신주쿠에서 도에이 오에도선 20분",
+    "hours": "날짜마다 달라요 (예약 시간 [확인 필요])",
+    "fee": null,
+    "cautions": "지정 시간 뒤 30분 안에 도착, 재입장 불가",
+    "lat": 35.7457,
+    "lng": 139.6457,
+    "sources": [
+      [
+        "공식 사이트",
+        "https://www.wbstudiotour.jp/"
+      ],
+      [
+        "FAQ",
+        "https://www.wbstudiotour.jp/faq/"
+      ],
+      [
+        "이용 규칙",
+        "https://www.wbstudiotour.jp/operation-policy/"
+      ],
+      [
+        "시설 안내",
+        "https://www.wbstudiotour.jp/plan-your-visit/facilities/"
+      ],
+      [
+        "세트 소개",
+        "https://www.wbstudiotour.jp/the-experience/sets/"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/wb-tokyo.jpg",
+    "icon": "film",
+    "short": "워너 브라더스",
+    "photoCredit": {
+      "author": "Asanagi",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Warner_Bros_Studio_Tour_Tokyo_2024-11-03.jpg",
+      "caption": "입구 건물 (2024)"
+    }
+  },
+  {
+    "id": "disneysea",
+    "name_ko": "도쿄 디즈니씨",
+    "name_ja": "東京ディズニーシー",
+    "yomi": "とうきょうディズニーシー",
+    "category": "테마파크",
+    "days": [
+      3
+    ],
+    "intro": "바다의 신화와 전설을 테마로 한 디즈니 파크. 8개 테마 포트로 되어 있어요.",
+    "description": "10/22(목) 운영 9:00~21:00. JR 舞浜駅 → 디즈니 리조트 라인 → 東京ディズニーシー・ステーション. 하루 종일 자유 이용이에요.",
+    "points": [
+      "소어린",
+      "토이 스토리 매니아",
+      "판타지 스프링스",
+      "밤 공연 빌리브!"
+    ],
+    "sights": [
+      {
+        "name": "소어린: 판타스틱 플라이트",
+        "ja": "ソアリン",
+        "where": "메디테레니안 하버",
+        "desc": "하늘을 나는 비행 체험, 약 5분"
+      },
+      {
+        "name": "토이 스토리 매니아!",
+        "ja": "トイ・ストーリー・マニア！",
+        "where": "아메리칸 워터프런트",
+        "desc": "3D 사격 게임, 약 7분"
+      },
+      {
+        "name": "센터 오브 디 어스",
+        "ja": "センター・オブ・ジ・アース",
+        "where": "미스테리어스 아일랜드",
+        "desc": "땅속 탐험, 키 117cm 이상"
+      },
+      {
+        "name": "레이징 스피릿",
+        "ja": "レイジングスピリッツ",
+        "where": "로스트 리버 델타",
+        "desc": "360도 루프 롤러코스터"
+      },
+      {
+        "name": "해저 2만 마일",
+        "ja": "海底2万マイル",
+        "where": "미스테리어스 아일랜드",
+        "desc": "잠수정 탐사, 약 5분"
+      },
+      {
+        "name": "프로즌 저니 · 피터팬",
+        "ja": "フローズンジャーニー · ネバーランドアドベンチャー",
+        "where": "판타지 스프링스",
+        "desc": "겨울왕국·피터팬 놀이기구"
+      },
+      {
+        "name": "10/22 공연 시간",
+        "desc": "스파클링 주빌리 11:30·15:00 / 할로윈 그리팅 13:15·16:15 / 빌리브! 19:30 / 할로윈 불꽃 20:30"
+      }
+    ],
+    "food": [
+      {
+        "name": "ザンビーニ・ブラザーズ・リストランテ",
+        "where": "메디테레니안 하버",
+        "desc": "피자·파스타",
+        "dish": "pizza"
+      },
+      {
+        "name": "ケープコッド・クックオフ",
+        "where": "아메리칸 워터프런트",
+        "desc": "햄버거",
+        "dish": "burger"
+      },
+      {
+        "name": "ニューヨーク・デリ",
+        "where": "아메리칸 워터프런트",
+        "desc": "샌드위치",
+        "dish": "sandwich"
+      },
+      {
+        "name": "ミゲルズ・エルドラド・キャンティーナ",
+        "where": "로스트 리버 델타",
+        "desc": "멕시칸"
+      },
+      {
+        "name": "ユカタン・ベースキャンプ・グリル",
+        "where": "로스트 리버 델타"
+      },
+      {
+        "name": "모바일 오더",
+        "desc": "도쿄 디즈니 리조트 앱으로 미리 주문할 수 있어요"
+      }
+    ],
+    "shops": [
+      {
+        "name": "ABC-MART GRAND STAGE 이크스피아리점",
+        "ja": "ABC-MART GRAND STAGE イクスピアリ店",
+        "where": "이크스피아리 2F B'ウェイ (마이하마역 쪽, 파크 밖)",
+        "desc": "나이키·아디다스·뉴발란스 운동화와 의류. 평일 11:00~21:00",
+        "note": "디즈니씨 안이 아니에요. 다시 들어가려면 그날 쓴 티켓과 보안검사가 필요해요. 학교 허락이 있을 때만.",
+        "url": "https://www.ikspiari.com/shop/shops/171a/index.html"
+      }
+    ],
+    "rules": [
+      "셀카봉·삼각대는 쓸 수 없어요.",
+      "미아센터는 초등학생 이하만 맡아요. 떨어지면 가까운 캐스트나 게스트 릴레이션으로 가요.",
+      "구호실은 메디테레니안 하버 '카페 포르토피노' 왼쪽 옆이에요. AED는 곳곳에 있어요.",
+      "DPA(유료 시간 예약)를 18세 미만이 앱으로 사려면 보호자 동의가 필요해요.",
+      "분장은 10/16~31에 허용. 얼굴 가리는 가면 금지, 옷은 숙소에서 갈아입어요.",
+      "바깥 음식·캔·병 음료는 반입 금지예요 (알레르기 같은 식이 제한은 예외)."
+    ],
+    "changes": [
+      "10/22에 쉬는 곳: 타워 오브 테러, 인디아나 존스 어드벤처, 트랜짓 스티머 라인, 머메이드 라군 시어터, 공연 스카이 풀 오브 컬러즈",
+      "입구 공사로 일부 통로·화장실·코인로커를 쓸 수 없어요 (2028 회계연도까지).",
+      "디즈니 할로윈 9/16~10/31"
+    ],
+    "stay": "종일 (자유 이용)",
+    "access": "JR 舞浜駅 → 디즈니 리조트 라인",
+    "hours": "10/22 9:00~21:00",
+    "fee": null,
+    "cautions": "집합 장소·시각 [확인 필요]",
+    "lat": 35.626015,
+    "lng": 139.885409,
+    "sources": [
+      [
+        "10/22 운영 캘린더",
+        "https://www.tokyodisneyresort.jp/tds/daily/calendar/20261022"
+      ],
+      [
+        "파크 이용 규약",
+        "https://www.tokyodisneyresort.jp/en/theme_park_terms_of_use.html"
+      ],
+      [
+        "분장 규칙 2026",
+        "https://www.tokyodisneyresort.jp/dream/event/costumes2026.html"
+      ],
+      [
+        "분실물",
+        "https://www.tokyodisneyresort.jp/tds/guide/lost.html"
+      ],
+      [
+        "DPA",
+        "https://www.tokyodisneyresort.jp/en/tdr/guide/app_service/disneypremieraccess.html"
+      ],
+      [
+        "입구 공사",
+        "https://www.tokyodisneyresort.jp/topics/info/tds_entrance.html"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/disneysea.jpg",
+    "icon": "castle",
+    "short": "디즈니씨",
+    "photoCredit": {
+      "author": "Wing1990hk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tokyo_DisneySea_Mediterranean_Harbour_View1_201306.jpg",
+      "caption": "메디테레니안 하버 (2013)"
+    }
+  },
+  {
+    "id": "shinshoji",
+    "name_ko": "나리타산 신승사",
+    "name_ja": "成田山新勝寺",
+    "yomi": "なりたさんしんしょうじ",
+    "category": "절",
+    "days": [
+      4
+    ],
+    "intro": "940년에 세워진 절. 연간 약 1,000만 명이 찾는 동일본 최대급 사찰이에요.",
+    "description": "본존은 부동명왕(不動明王)이라 '成田のお不動さま'라고도 불러요. 경내는 무료로 들어갈 수 있어요.",
+    "points": [
+      "総門 → 仁王門 → 大本堂 → 三重塔 → 平和大塔",
+      "표참도 장어 거리",
+      "서도미술관 (고교생 무료)"
+    ],
+    "sights": [
+      {
+        "name": "소몬",
+        "ja": "総門",
+        "where": "입구",
+        "desc": "2008년에 지은 높이 15m 정문"
+      },
+      {
+        "name": "니오몬",
+        "ja": "仁王門",
+        "desc": "1830년에 다시 지은 중요문화재. 「魚がし」 큰 초롱"
+      },
+      {
+        "name": "다이혼도",
+        "ja": "大本堂",
+        "where": "경내 중심",
+        "desc": "1968년에 지은 본당. 오고마 기도를 하는 곳"
+      },
+      {
+        "name": "산주노토",
+        "ja": "三重塔",
+        "desc": "1712년, 약 27m, 중요문화재"
+      },
+      {
+        "name": "헤이와다이토",
+        "ja": "平和大塔",
+        "where": "경내 안쪽",
+        "desc": "1984년, 높이 58m. 1층 역사 전시"
+      },
+      {
+        "name": "나리타산 공원",
+        "ja": "成田山公園",
+        "where": "경내 뒤쪽",
+        "desc": "연못 3개, 비단잉어, 폭포"
+      },
+      {
+        "name": "서도미술관",
+        "ja": "成田山書道美術館",
+        "where": "공원 안",
+        "desc": "9:00~16:00, 월요일 휴관. 10/20부터 고등학생 무료"
+      }
+    ],
+    "food": [
+      {
+        "name": "표참도 장어집",
+        "ja": "表参道",
+        "where": "역에서 절까지 약 800m 길",
+        "desc": "장어집 약 60곳: 川豊本店(1910년), 菊屋, 成毛家",
+        "dish": "unaju"
+      },
+      {
+        "name": "간식",
+        "desc": "後藤だんご屋(당고), 林田のおせんべい(센베이), なごみの米屋(밤양갱), 金時の甘太郎焼(오방떡)",
+        "dish": "dango"
+      }
+    ],
+    "rules": [
+      "総門에서 한 번 절하고 들어가고, 나올 때도 절해요.",
+      "手水舎에서 손을 씻고 입을 헹궈요.",
+      "大本堂 앞에서는 절하고 합장해요.",
+      "결혼식이 진행 중이면 사진을 찍지 않아요.",
+      "건물 안 촬영은 현장 안내를 따라요."
+    ],
+    "changes": [
+      "표참도 駿河屋는 본점 화재로 쉬고 있어요.",
+      "서도미술관은 10/20부터 고등학생 이하 무료예요."
+    ],
+    "stay": null,
+    "access": "JR·게이세이 나리타역에서 걸어서 약 10분. 공항에서 차로 약 20분",
+    "hours": "기도 접수 8:00~16:00",
+    "fee": "경내 무료",
+    "cautions": "절 예절 지키기",
+    "lat": 35.786051,
+    "lng": 140.318249,
+    "sources": [
+      [
+        "신승사 공식",
+        "https://www.naritasan.or.jp/english/"
+      ],
+      [
+        "가람 안내",
+        "https://www.naritasan.or.jp/tour/hall/"
+      ],
+      [
+        "참배 방법",
+        "https://www.naritasan.or.jp/about/howto/"
+      ],
+      [
+        "단체 참배",
+        "https://www.naritasan.or.jp/dantai/"
+      ],
+      [
+        "서도미술관",
+        "https://www.naritasan.or.jp/tour/other/"
+      ],
+      [
+        "표참도 장어",
+        "https://maruchiba.jp/gourmet/feature/detail_396.html"
+      ]
+    ],
+    "checkedAt": "2026-10-09",
+    "photo": "img/places/shinshoji.jpg",
+    "icon": "temple",
+    "short": "신승사",
+    "photoCredit": {
+      "author": "Manish Prabhune",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple.jpg",
+      "caption": "절 입구의 문"
+    }
+  }
+]

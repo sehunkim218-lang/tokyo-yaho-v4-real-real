@@ -1,0 +1,32 @@
+[out:json][timeout:300];
+(
+ way[railway~"^(rail|subway|light_rail|monorail)$"][!service](35.600,139.600,35.760,139.640);
+ way[highway~"^(motorway|trunk|primary|secondary)$"](35.600,139.600,35.760,139.640);
+ way[waterway~"^(river|canal)$"](35.600,139.600,35.760,139.640);
+ way[natural=water](35.600,139.600,35.760,139.640);
+ relation[natural=water](35.600,139.600,35.760,139.640);
+ way[natural=coastline](35.600,139.600,35.760,139.640);
+ way[leisure~"^(park|garden)$"][name](35.600,139.600,35.760,139.640);
+ relation[leisure=park][name](35.600,139.600,35.760,139.640);
+ node[railway=station](35.600,139.600,35.760,139.640);
+ node[place~"^(suburb|quarter)$"](35.600,139.600,35.760,139.640);
+ way[railway~"^(rail|subway|light_rail|monorail)$"][!service](35.740,140.280,35.820,140.420);
+ way[highway~"^(motorway|trunk|primary|secondary)$"](35.740,140.280,35.820,140.420);
+ way[waterway~"^(river|canal)$"](35.740,140.280,35.820,140.420);
+ way[natural=water](35.740,140.280,35.820,140.420);
+ relation[natural=water](35.740,140.280,35.820,140.420);
+ way[natural=coastline](35.740,140.280,35.820,140.420);
+ way[leisure~"^(park|garden)$"][name](35.740,140.280,35.820,140.420);
+ relation[leisure=park][name](35.740,140.280,35.820,140.420);
+ node[railway=station](35.740,140.280,35.820,140.420);
+ node[place~"^(suburb|quarter)$"](35.740,140.280,35.820,140.420);
+ way[highway=tertiary](35.740,140.280,35.820,140.420);
+ way[aeroway~"^(runway|terminal)$"](35.740,140.280,35.820,140.420);
+);
+out geom;
+(
+ nwr[tourism~"^(attraction|museum)$"][name][wikidata](35.600,139.600,35.760,139.640);
+ nwr[tourism~"^(attraction|museum)$"][name][wikidata](35.740,140.280,35.820,140.420);
+ nwr[amenity=place_of_worship][name][wikidata](35.740,140.280,35.820,140.420);
+);
+out center tags;

@@ -1,0 +1,82 @@
+{
+  "ramen": {
+    "name": "라멘",
+    "src": "img/food/ramen.jpg",
+    "author": "Luis Carlos Diaz",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ramen_2.jpg"
+  },
+  "takoyaki": {
+    "name": "다코야키",
+    "src": "img/food/takoyaki.jpg",
+    "author": "sayo ts",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Takoyaki_dish.jpg"
+  },
+  "udon": {
+    "name": "우동",
+    "src": "img/food/udon.jpg",
+    "author": "Wide Awake!",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kake_Udon_and_Spam_omusubi_from_Marugame_Udon_(2024-06-11).jpg"
+  },
+  "unaju": {
+    "name": "장어덮밥",
+    "src": "img/food/unaju.jpg",
+    "author": "妖精書士",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Unaju_at_Unagi-Naruse.jpg"
+  },
+  "dango": {
+    "name": "당고",
+    "src": "img/food/dango.jpg",
+    "author": "Kykk wiki",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitarashi_Dango_at_Kyoto.jpg"
+  },
+  "pizza": {
+    "name": "피자",
+    "src": "img/food/pizza.jpg",
+    "author": "Fabryx98",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pizza-napoletana.jpg"
+  },
+  "burger": {
+    "name": "햄버거",
+    "src": "img/food/burger.jpg",
+    "author": "Len Rizzi (photographer)",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:NCI_Visuals_Food_Hamburger.jpg"
+  },
+  "gyoza": {
+    "name": "교자",
+    "src": "img/food/gyoza.jpg",
+    "author": "Enming Yan / 闫恩铭",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyoza_no_Antei_-_3.jpg"
+  },
+  "sushi": {
+    "name": "초밥",
+    "src": "img/food/sushi.jpg",
+    "author": "Tim Reckmann from Hamm, Deutschland",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nigiri_Sushi_(25966163204).jpg"
+  },
+  "sandwich": {
+    "name": "샌드위치",
+    "src": "img/food/sandwich.jpg",
+    "author": "Diderot's dreams",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bologna_sandwich.jpg"
+  }
+}

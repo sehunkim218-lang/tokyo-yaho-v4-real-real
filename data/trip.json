@@ -1,0 +1,21 @@
+{
+  "title": "도쿄 야호",
+  "subtitle": "2026 도쿄 수학여행 가이드북",
+  "school": "대전대신고등학교 54회",
+  "joinCode": null,
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-23",
+  "hotel": {
+    "name_ko": null,
+    "name_ja": null,
+    "address_ja": null,
+    "phone": null,
+    "lat": null,
+    "lng": null
+  },
+  "exchange": {
+    "krwPer100Jpy": null,
+    "baseDate": null
+  },
+  "map": {}
+}

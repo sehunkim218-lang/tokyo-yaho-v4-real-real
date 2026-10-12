@@ -1,0 +1,60 @@
+{
+  "place": [
+    {
+      "id": "m-narita",
+      "placeId": "narita-airport",
+      "title": "Visit Japan Web QR로 입국 마치기",
+      "stamp": "空"
+    },
+    {
+      "id": "m-odaiba",
+      "placeId": "odaiba-seaside",
+      "title": "자유의 여신상과 레인보우 브리지를 한 장에 담기",
+      "stamp": "台"
+    },
+    {
+      "id": "m-divercity",
+      "placeId": "divercity",
+      "title": "2F 푸드코트에서 일본 음식 하나 먹어 보기",
+      "stamp": "食"
+    },
+    {
+      "id": "m-akiba",
+      "placeId": "akihabara",
+      "title": "電気街口 간판 찾기",
+      "stamp": "秋"
+    },
+    {
+      "id": "m-wb",
+      "placeId": "wb-tokyo",
+      "title": "마법부 벽난로 앞에서 사진 찍기",
+      "stamp": "魔"
+    },
+    {
+      "id": "m-tds",
+      "placeId": "disneysea",
+      "title": "테마 포트 5곳 이상 걸어 보기",
+      "stamp": "海"
+    },
+    {
+      "id": "m-shin",
+      "placeId": "shinshoji",
+      "title": "総門에서 절하고 大本堂 앞에서 합장하기",
+      "stamp": "成"
+    }
+  ],
+  "photo": [
+    {
+      "id": "p-sign",
+      "title": "일본어 간판이 많은 거리 사진"
+    },
+    {
+      "id": "p-food",
+      "title": "오늘 먹은 음식 사진"
+    },
+    {
+      "id": "p-group",
+      "title": "반 친구들과 단체사진 (워너 브라더스는 입구 밖 공원에서)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sensoji",
+    "name_ko": "센소지",
+    "name_ja": "浅草寺",
+    "yomi": "せんそうじ",
+    "category": "절·신사",
+    "intro": "도쿄에서 가장 오래된 절",
+    "photo": null,
+    "description": null,
+    "points": [],
+    "stay": null,
+    "access": null,
+    "hours": null,
+    "fee": null,
+    "cautions": null,
+    "lat": 35.71476,
+    "lng": 139.79665
+  },
+  {
+    "id": "tokyo-tower",
+    "name_ko": "도쿄 타워",
+    "name_ja": "東京タワー",
+    "yomi": "とうきょうタワー",
+    "category": "전망",
+    "intro": "1958년에 문을 연 333m 전파탑",
+    "photo": null,
+    "lat": 35.65858,
+    "lng": 139.74543
+  },
+  {
+    "id": "meiji",
+    "name_ko": "메이지 신궁",
+    "name_ja": "明治神宮",
+    "yomi": "めいじじんぐう",
+    "category": "절·신사",
+    "intro": "넓은 숲에 둘러싸인 신사",
+    "photo": null,
+    "lat": 35.67637,
+    "lng": 139.69933
+  }
+]
